@@ -51,6 +51,7 @@ dashboard/
 cd dashboard-backend
 npm install
 cp .env.example .env
+npm run dev
 ```
 
 ### 2. Frontend
@@ -59,6 +60,7 @@ cp .env.example .env
 cd dashboard-frontend
 npm install
 cp .env.example .env
+npm run dev
 ```
 
 Оба сервиса должны быть запущены одновременно, в двух отдельных терминалах.
