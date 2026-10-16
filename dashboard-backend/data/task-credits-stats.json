@@ -1,0 +1,915 @@
+{
+  "dailyStats": {
+    "2026-07-20": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 736,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 666,
+        "manual": 16
+      }
+    ],
+    "2026-07-21": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 622,
+        "manual": 3
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 293,
+        "manual": 106
+      }
+    ],
+    "2026-07-22": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 644,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 275,
+        "manual": 35
+      }
+    ],
+    "2026-07-23": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 443,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 2386,
+        "manual": 24
+      }
+    ],
+    "2026-07-24": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 397,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 591,
+        "manual": 5
+      }
+    ],
+    "2026-07-25": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 473,
+        "manual": 2
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 547,
+        "manual": 1
+      }
+    ],
+    "2026-07-26": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 619,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 551,
+        "manual": 4
+      }
+    ],
+    "2026-07-27": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 1070,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 470,
+        "manual": 1
+      }
+    ],
+    "2026-07-28": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 723,
+        "manual": 3
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 830,
+        "manual": 8
+      }
+    ],
+    "2026-07-29": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 612,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 899,
+        "manual": 4
+      }
+    ],
+    "2026-07-30": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 633,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 608,
+        "manual": 4
+      }
+    ],
+    "2026-07-31": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 565,
+        "manual": 2
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 539,
+        "manual": 1
+      }
+    ],
+    "2026-08-01": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 488,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 520,
+        "manual": 0
+      }
+    ],
+    "2026-08-02": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 769,
+        "manual": 2
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 580,
+        "manual": 0
+      }
+    ],
+    "2026-08-03": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 939,
+        "manual": 2
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 466,
+        "manual": 1
+      }
+    ],
+    "2026-08-04": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 806,
+        "manual": 9
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 712,
+        "manual": 3
+      }
+    ],
+    "2026-08-05": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 616,
+        "manual": 7
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 902,
+        "manual": 2
+      }
+    ],
+    "2026-08-06": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 603,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 707,
+        "manual": 1
+      }
+    ],
+    "2026-08-07": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 539,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 533,
+        "manual": 2
+      }
+    ],
+    "2026-08-08": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 591,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 535,
+        "manual": 1
+      }
+    ],
+    "2026-08-09": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 571,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 486,
+        "manual": 1
+      }
+    ],
+    "2026-08-10": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 735,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 526,
+        "manual": 1
+      }
+    ],
+    "2026-08-11": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 949,
+        "manual": 9
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 813,
+        "manual": 7
+      }
+    ],
+    "2026-08-12": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 809,
+        "manual": 2
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 1025,
+        "manual": 3
+      }
+    ],
+    "2026-08-13": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 521,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 788,
+        "manual": 1
+      }
+    ],
+    "2026-08-14": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 563,
+        "manual": 5
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 798,
+        "manual": 1
+      }
+    ],
+    "2026-08-15": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 452,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 574,
+        "manual": 2
+      }
+    ],
+    "2026-08-16": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 652,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 707,
+        "manual": 0
+      }
+    ],
+    "2026-08-17": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 869,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 543,
+        "manual": 8
+      }
+    ],
+    "2026-08-18": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 889,
+        "manual": 9
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 849,
+        "manual": 7
+      }
+    ],
+    "2026-08-19": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 548,
+        "manual": 3
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 1397,
+        "manual": 9
+      }
+    ],
+    "2026-08-20": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 602,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 660,
+        "manual": 2
+      }
+    ],
+    "2026-08-21": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 627,
+        "manual": 2
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 789,
+        "manual": 1
+      }
+    ],
+    "2026-08-22": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 557,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 705,
+        "manual": 2
+      }
+    ],
+    "2026-08-23": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 619,
+        "manual": 3
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 402,
+        "manual": 1
+      }
+    ],
+    "2026-08-24": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 690,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 729,
+        "manual": 1
+      }
+    ],
+    "2026-08-25": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 944,
+        "manual": 5
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 1142,
+        "manual": 15
+      }
+    ],
+    "2026-08-26": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 627,
+        "manual": 6
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 1402,
+        "manual": 2
+      }
+    ],
+    "2026-08-27": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 514,
+        "manual": 3
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 974,
+        "manual": 2
+      }
+    ],
+    "2026-08-28": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 508,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 862,
+        "manual": 1
+      }
+    ],
+    "2026-08-29": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 464,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 815,
+        "manual": 1
+      }
+    ],
+    "2026-08-30": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 712,
+        "manual": 3
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 1053,
+        "manual": 1
+      }
+    ],
+    "2026-08-31": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 832,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 585,
+        "manual": 7
+      }
+    ],
+    "2026-09-01": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 1175,
+        "manual": 3
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 790,
+        "manual": 10
+      }
+    ],
+    "2026-09-02": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 957,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 1113,
+        "manual": 5
+      }
+    ],
+    "2026-09-03": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 798,
+        "manual": 2
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 752,
+        "manual": 5
+      }
+    ],
+    "2026-09-04": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 634,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 551,
+        "manual": 1
+      }
+    ],
+    "2026-09-05": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 735,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 537,
+        "manual": 1
+      }
+    ],
+    "2026-09-06": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 706,
+        "manual": 3
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 593,
+        "manual": 1
+      }
+    ],
+    "2026-09-07": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 926,
+        "manual": 2
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 473,
+        "manual": 5
+      }
+    ],
+    "2026-09-08": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 1121,
+        "manual": 7
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 908,
+        "manual": 10
+      }
+    ],
+    "2026-09-09": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 733,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 1087,
+        "manual": 4
+      }
+    ],
+    "2026-09-10": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 957,
+        "manual": 4
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 784,
+        "manual": 1
+      }
+    ],
+    "2026-09-11": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 900,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 701,
+        "manual": 0
+      }
+    ],
+    "2026-09-12": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 851,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 683,
+        "manual": 2
+      }
+    ],
+    "2026-09-13": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 803,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 510,
+        "manual": 1
+      }
+    ],
+    "2026-09-14": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 869,
+        "manual": 6
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 599,
+        "manual": 1
+      }
+    ],
+    "2026-09-15": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 789,
+        "manual": 6
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 766,
+        "manual": 5
+      }
+    ],
+    "2026-09-16": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 783,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 904,
+        "manual": 0
+      }
+    ],
+    "2026-09-17": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 592,
+        "manual": 1
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 810,
+        "manual": 0
+      }
+    ],
+    "2026-09-18": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 618,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 1091,
+        "manual": 1
+      }
+    ],
+    "2026-09-19": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 351,
+        "manual": 5
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 630,
+        "manual": 1
+      }
+    ],
+    "2026-09-20": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 675,
+        "manual": 0
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 770,
+        "manual": 1
+      }
+    ],
+    "2026-09-21": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 592,
+        "manual": 3
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 746,
+        "manual": 4
+      }
+    ],
+    "2026-09-22": [
+      {
+        "gameId": "cs2",
+        "name": "CS2",
+        "automatic": 404,
+        "manual": 4
+      },
+      {
+        "gameId": "dota2",
+        "name": "Dota2",
+        "automatic": 538,
+        "manual": 10
+      }
+    ]
+  },
+  "overrides": {}
+}

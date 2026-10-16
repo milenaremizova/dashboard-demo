@@ -1,0 +1,260 @@
+{
+  "dailyStats": {
+    "2026-08-03": {
+      "total": 154,
+      "onboardingCompleted": 117,
+      "onboardingNotCompleted": 37
+    },
+    "2026-08-04": {
+      "total": 182,
+      "onboardingCompleted": 127,
+      "onboardingNotCompleted": 55
+    },
+    "2026-08-05": {
+      "total": 175,
+      "onboardingCompleted": 120,
+      "onboardingNotCompleted": 55
+    },
+    "2026-08-06": {
+      "total": 162,
+      "onboardingCompleted": 110,
+      "onboardingNotCompleted": 52
+    },
+    "2026-08-07": {
+      "total": 168,
+      "onboardingCompleted": 102,
+      "onboardingNotCompleted": 66
+    },
+    "2026-08-08": {
+      "total": 178,
+      "onboardingCompleted": 104,
+      "onboardingNotCompleted": 74
+    },
+    "2026-08-09": {
+      "total": 191,
+      "onboardingCompleted": 94,
+      "onboardingNotCompleted": 97
+    },
+    "2026-08-10": {
+      "total": 188,
+      "onboardingCompleted": 118,
+      "onboardingNotCompleted": 70
+    },
+    "2026-08-11": {
+      "total": 154,
+      "onboardingCompleted": 104,
+      "onboardingNotCompleted": 50
+    },
+    "2026-08-12": {
+      "total": 217,
+      "onboardingCompleted": 149,
+      "onboardingNotCompleted": 68
+    },
+    "2026-08-13": {
+      "total": 944,
+      "onboardingCompleted": 409,
+      "onboardingNotCompleted": 535
+    },
+    "2026-08-14": {
+      "total": 313,
+      "onboardingCompleted": 178,
+      "onboardingNotCompleted": 135
+    },
+    "2026-08-15": {
+      "total": 245,
+      "onboardingCompleted": 132,
+      "onboardingNotCompleted": 113
+    },
+    "2026-08-16": {
+      "total": 223,
+      "onboardingCompleted": 121,
+      "onboardingNotCompleted": 102
+    },
+    "2026-08-17": {
+      "total": 219,
+      "onboardingCompleted": 108,
+      "onboardingNotCompleted": 111
+    },
+    "2026-08-18": {
+      "total": 130,
+      "onboardingCompleted": 79,
+      "onboardingNotCompleted": 51
+    },
+    "2026-08-19": {
+      "total": 234,
+      "onboardingCompleted": 154,
+      "onboardingNotCompleted": 80
+    },
+    "2026-08-20": {
+      "total": 865,
+      "onboardingCompleted": 450,
+      "onboardingNotCompleted": 415
+    },
+    "2026-08-21": {
+      "total": 468,
+      "onboardingCompleted": 275,
+      "onboardingNotCompleted": 193
+    },
+    "2026-08-22": {
+      "total": 291,
+      "onboardingCompleted": 157,
+      "onboardingNotCompleted": 134
+    },
+    "2026-08-23": {
+      "total": 287,
+      "onboardingCompleted": 150,
+      "onboardingNotCompleted": 137
+    },
+    "2026-08-24": {
+      "total": 199,
+      "onboardingCompleted": 141,
+      "onboardingNotCompleted": 58
+    },
+    "2026-08-25": {
+      "total": 195,
+      "onboardingCompleted": 106,
+      "onboardingNotCompleted": 89
+    },
+    "2026-08-26": {
+      "total": 179,
+      "onboardingCompleted": 109,
+      "onboardingNotCompleted": 70
+    },
+    "2026-08-27": {
+      "total": 186,
+      "onboardingCompleted": 110,
+      "onboardingNotCompleted": 76
+    },
+    "2026-08-28": {
+      "total": 213,
+      "onboardingCompleted": 103,
+      "onboardingNotCompleted": 110
+    },
+    "2026-08-29": {
+      "total": 186,
+      "onboardingCompleted": 146,
+      "onboardingNotCompleted": 40
+    },
+    "2026-08-30": {
+      "total": 189,
+      "onboardingCompleted": 138,
+      "onboardingNotCompleted": 51
+    },
+    "2026-08-31": {
+      "total": 200,
+      "onboardingCompleted": 116,
+      "onboardingNotCompleted": 84
+    },
+    "2026-09-01": {
+      "total": 152,
+      "onboardingCompleted": 100,
+      "onboardingNotCompleted": 52
+    },
+    "2026-09-02": {
+      "total": 191,
+      "onboardingCompleted": 91,
+      "onboardingNotCompleted": 100
+    },
+    "2026-09-03": {
+      "total": 137,
+      "onboardingCompleted": 94,
+      "onboardingNotCompleted": 43
+    },
+    "2026-09-04": {
+      "total": 292,
+      "onboardingCompleted": 161,
+      "onboardingNotCompleted": 131
+    },
+    "2026-09-05": {
+      "total": 252,
+      "onboardingCompleted": 135,
+      "onboardingNotCompleted": 117
+    },
+    "2026-09-06": {
+      "total": 210,
+      "onboardingCompleted": 139,
+      "onboardingNotCompleted": 71
+    },
+    "2026-09-07": {
+      "total": 195,
+      "onboardingCompleted": 134,
+      "onboardingNotCompleted": 61
+    },
+    "2026-09-08": {
+      "total": 301,
+      "onboardingCompleted": 152,
+      "onboardingNotCompleted": 149
+    },
+    "2026-09-09": {
+      "total": 763,
+      "onboardingCompleted": 471,
+      "onboardingNotCompleted": 292
+    },
+    "2026-09-10": {
+      "total": 223,
+      "onboardingCompleted": 129,
+      "onboardingNotCompleted": 94
+    },
+    "2026-09-11": {
+      "total": 189,
+      "onboardingCompleted": 130,
+      "onboardingNotCompleted": 59
+    },
+    "2026-09-12": {
+      "total": 224,
+      "onboardingCompleted": 138,
+      "onboardingNotCompleted": 86
+    },
+    "2026-09-13": {
+      "total": 331,
+      "onboardingCompleted": 124,
+      "onboardingNotCompleted": 207
+    },
+    "2026-09-14": {
+      "total": 244,
+      "onboardingCompleted": 143,
+      "onboardingNotCompleted": 101
+    },
+    "2026-09-15": {
+      "total": 311,
+      "onboardingCompleted": 194,
+      "onboardingNotCompleted": 117
+    },
+    "2026-09-16": {
+      "total": 302,
+      "onboardingCompleted": 183,
+      "onboardingNotCompleted": 119
+    },
+    "2026-09-17": {
+      "total": 208,
+      "onboardingCompleted": 136,
+      "onboardingNotCompleted": 72
+    },
+    "2026-09-18": {
+      "total": 189,
+      "onboardingCompleted": 131,
+      "onboardingNotCompleted": 58
+    },
+    "2026-09-19": {
+      "total": 201,
+      "onboardingCompleted": 79,
+      "onboardingNotCompleted": 122
+    },
+    "2026-09-20": {
+      "total": 296,
+      "onboardingCompleted": 161,
+      "onboardingNotCompleted": 135
+    },
+    "2026-09-21": {
+      "total": 715,
+      "onboardingCompleted": 390,
+      "onboardingNotCompleted": 325
+    },
+    "2026-09-22": {
+      "total": 220,
+      "onboardingCompleted": 98,
+      "onboardingNotCompleted": 122
+    }
+  },
+  "overrides": {}
+}

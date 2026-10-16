@@ -1,0 +1,269 @@
+:root {
+  --transition-fast: 0.3s ease;
+}
+
+/* ==================== Сброс и база ==================== */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+}
+
+/* ==================== Формы ==================== */
+
+input[type="date"],
+input[type="number"] {
+  color-scheme: dark;
+}
+
+/* ==================== Layout-утилиты ==================== */
+
+.stat-row,
+.charts-row {
+  display: grid;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.stat-row {
+  grid-template-columns: 1fr 1fr;
+}
+
+.charts-row {
+  grid-template-columns: 1.3fr 1fr;
+}
+
+@media (max-width: 640px) {
+  .stat-row,
+  .charts-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.dashboard-body {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  align-items: start;
+}
+
+@media (min-width: 1100px) {
+  .dashboard-body {
+    grid-template-columns: 2fr 1fr;
+  }
+}
+
+/* ==================== Компоненты ==================== */
+
+.nav-btn {
+  background: #01465e;
+  font-size: 24px;
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition:
+    background var(--transition-fast),
+    color var(--transition-fast);
+}
+
+.nav-btn:hover {
+  background: var(--color-border);
+  color: var(--color-brand);
+}
+
+.mode-tab {
+  background: transparent;
+  border: none;
+  color: var(--color-textMuted);
+  padding: 7px 12px;
+  border-radius: 7px;
+  font-size: 14px;
+  cursor: pointer;
+  font-family: inherit;
+  transition:
+    background var(--transition-fast),
+    color var(--transition-fast);
+}
+
+.mode-tab:hover {
+  background: var(--color-border);
+  color: var(--color-brand);
+}
+
+.mode-tab.active {
+  background: var(--color-brand);
+  color: var(--color-bg);
+  font-weight: 600;
+}
+
+.mode-tab.active:hover {
+  background: var(--color-brand);
+  color: var(--color-bg);
+}
+
+.metric-switcher-trigger {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--color-panel);
+  border: 1px solid var(--color-brand);
+  border-radius: 10px;
+  padding: 6px 14px 6px 8px;
+  color: var(--color-text);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: inherit;
+  transition:
+    background var(--transition-fast),
+    border-color var(--transition-fast);
+}
+
+.metric-switcher-trigger::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--color-accent2);
+  flex-shrink: 0;
+}
+
+.metric-switcher-trigger:hover {
+  color: var(--color-panel);
+  background-color: var(--color-brand);
+}
+
+.dropdown-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background: transparent;
+  border: none;
+  color: var(--color-text);
+  padding: 8px 10px;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: left;
+  transition:
+    background var(--transition-fast),
+    color var(--transition-fast);
+}
+
+.dropdown-item:hover,
+.dropdown-item.active {
+  background: var(--color-brand);
+  color: var(--color-bg);
+}
+
+.rdp-root {
+  background: var(--color-panel);
+  color: var(--color-text);
+  font-weight: 700;
+  border: 1px solid var(--color-brand);
+  border-radius: 12px;
+  padding: 12px;
+  overflow: hidden;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+
+  --rdp-accent-color: var(--color-bg);
+  --rdp-accent-background-color: var(--color-brand);
+  --rdp-today-color: var(--color-accent2);
+  --rdp-selected-border: 2px solid var(--color-accent2);
+  --rdp-day_button-border-radius: 50%;
+  --rdp-disabled-opacity: 0.35;
+  --rdp-outside-opacity: 0.3;
+}
+
+.rdp-caption_label {
+  text-transform: capitalize;
+}
+
+.percent-high {
+  color: #ff8a80;
+}
+
+.percent-normal {
+  color: var(--color-textFaint);
+}
+
+/* ==================== Анимации ==================== */
+
+@keyframes metricFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.metric-fade {
+  animation: metricFadeIn 0.6s ease-in-out;
+}
+
+/* ==================== Медиа-запросы ==================== */
+
+@media (max-width: 480px) {
+  .logo {
+    width: 120px;
+    height: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .shell-padding {
+    padding: 16px 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .page-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .brand-top {
+    flex-wrap: wrap;
+    row-gap: 8px;
+  }
+
+  .logo-svg {
+    width: 120px;
+    height: auto;
+  }
+
+  .eyebrow-text {
+    font-size: 22px;
+    margin-top: 0;
+  }
+
+  .period-controls {
+    align-items: flex-start;
+    width: 100%;
+  }
+
+  .period-top-row,
+  .period-nav-row {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 480px) {
+  .mode-tabs-row {
+    flex-wrap: wrap;
+  }
+}

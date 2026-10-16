@@ -1,0 +1,2213 @@
+{
+  "dailyStats": {
+    "2026-08-03": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 21
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-04": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 43
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-05": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 39
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-06": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 25
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-07": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 17
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-08": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 28
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-09": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 30
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-10": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 28
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-11": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 29
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-12": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 41
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-13": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 36
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-14": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 29
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-15": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 52
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-16": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 27
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-17": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 16
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-18": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 23
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-19": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 28
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-20": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 31
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-21": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 31
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-22": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 32
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-23": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 22
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-24": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 9
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-25": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 16
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-26": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 22
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-27": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 16
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-28": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 19
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-29": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 30
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-30": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 13
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-08-31": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 24
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-09-01": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 17
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-09-02": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 25
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-09-03": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 18
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-09-04": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 26
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-09-05": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 33
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-09-06": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 25
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-09-07": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 29
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 0
+      }
+    ],
+    "2026-09-08": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 56
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 50
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 28
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 18
+      }
+    ],
+    "2026-09-09": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 45
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 0
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 50
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 29
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 20
+      }
+    ],
+    "2026-09-10": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 80
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 40
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 38
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 44
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 57
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 40
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 17
+      }
+    ],
+    "2026-09-11": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 115
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 65
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 20
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 57
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 34
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 21
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 11
+      }
+    ],
+    "2026-09-12": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 77
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 51
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 32
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 48
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 26
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 23
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 14
+      }
+    ],
+    "2026-09-13": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 54
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 33
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 25
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 39
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 18
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 13
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 6
+      }
+    ],
+    "2026-09-14": [
+      {
+        "taskId": "sum_1000",
+        "name": "Первый шаг",
+        "amount": 10,
+        "completed": 52
+      },
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 37
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 25
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 35
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 18
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 12
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 7
+      }
+    ],
+    "2026-09-15": [
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 80
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 20
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 69
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 50
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 31
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 20
+      }
+    ],
+    "2026-09-16": [
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 57
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 55
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 69
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 48
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 42
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 22
+      }
+    ],
+    "2026-09-17": [
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 43
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 36
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 35
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 35
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 24
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 17
+      }
+    ],
+    "2026-09-18": [
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 30
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 35
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 40
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 28
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 17
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 8
+      }
+    ],
+    "2026-09-19": [
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 33
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 29
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 27
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 33
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 17
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 5
+      }
+    ],
+    "2026-09-20": [
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 33
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 29
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 33
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 31
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 17
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 6
+      }
+    ],
+    "2026-09-21": [
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 23
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 33
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 27
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 15
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 10
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 4
+      }
+    ],
+    "2026-09-22": [
+      {
+        "taskId": "sum_2500",
+        "name": "Разведка территории",
+        "amount": 25,
+        "completed": 23
+      },
+      {
+        "taskId": "sum_5000_shop",
+        "name": "Открытие портала",
+        "amount": 5,
+        "completed": 21
+      },
+      {
+        "taskId": "sum_5000",
+        "name": "Сбор ресурсов",
+        "amount": 50,
+        "completed": 21
+      },
+      {
+        "taskId": "sum_10000",
+        "name": "Прокачка героя",
+        "amount": 100,
+        "completed": 14
+      },
+      {
+        "taskId": "sum_20000",
+        "name": "Штурм крепости",
+        "amount": 250,
+        "completed": 2
+      },
+      {
+        "taskId": "sum_50000",
+        "name": "Финальный рейд",
+        "amount": 500,
+        "completed": 6
+      },
+      {
+        "taskId": "sum_100000",
+        "name": "Движение к награде",
+        "amount": 100000,
+        "completed": 3
+      },
+      {
+        "taskId": "sum_20000_duplicate",
+        "name": "Стартовый курс",
+        "amount": 20000,
+        "completed": 6
+      }
+    ]
+  },
+  "overrides": {}
+}
