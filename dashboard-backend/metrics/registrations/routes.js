@@ -1,5 +1,6 @@
 import { Router } from "express";
 import { getDailyStats } from "../../storage.js";
+import { shiftForDemo } from "../../demoShift.js";
 
 const router = Router();
 
@@ -10,7 +11,7 @@ router.get("/registrations", (req, res) => {
     date,
     ...stats,
   }));
-  res.json(history);
+  res.json(shiftForDemo(history));
 });
 
 export default router;

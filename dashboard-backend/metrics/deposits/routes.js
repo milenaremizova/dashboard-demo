@@ -6,6 +6,7 @@ import {
   deleteOverride,
 } from "../../storage.js";
 import { loadSumMapping, saveSumMapping } from "./sumMappingStore.js";
+import { shiftForDemo } from "../../demoShift.js";
 
 const router = Router();
 
@@ -17,7 +18,7 @@ router.get("/deposits", (req, res) => {
     date,
     tasks,
   }));
-  res.json(history);
+  res.json(shiftForDemo(history));
 });
 
 router.get("/deposits/overrides", (req, res) => {
